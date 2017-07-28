@@ -1,0 +1,26 @@
+html {
+	font-family: Helvetica;
+}
+
+.header {
+	height: 125px;
+	background-image: url('../img/pattern.jpeg');
+}
+
+h1 {
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+}
+
+b {
+	color: blue;
+}
+
